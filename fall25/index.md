@@ -10,7 +10,7 @@ Welcome to **CS 351: Distributed Systems** - Fall 2025.
 - Discussions: Wed 9:05am - 2:15pm, multiple locations; check MyBU Student
 
 ### Courseware
-- [Piazza]()
+- [Piazza](https://piazza.com/bu/fall2025/cascs351/home)
 - [Github classroom](https://classroom.github.com/classrooms/228307190-cs-351-fall-25)
 - [Gradescope]()
 
