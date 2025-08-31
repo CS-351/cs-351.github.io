@@ -4,18 +4,22 @@ Welcome to **CS 351: Distributed Systems** - Fall 2025.
 ## [Lectures](./lectures.html) \| [Discussions](./discussions.html) \| [Readings](./readings.html) \| [Syllabus](./syllabus.pdf)
 
 ## Course information
-- Instructors: [Vasiliki Kalavri](https://cs-people.bu.edu/vkalavri/) and [Anna Arpaci-Dusseau](https://www.bu.edu/cs/profiles/anna-arpaci-dusseau/)
-- Teaching Fellows: Matias Ou, [Sam Buxbaum](https://sambux.org/), [Naima Abrar Shami](https://sites.bu.edu/casp/people/naima-abrar-shami/)
-- Lectures: Mon/Wed 2:30pm-3:45pm, [SCI 109](https://www.bu.edu/classrooms/classroom/sci-109/)
-- Discussions: Wed 9:05am - 2:15pm. See [Discussions](./discussions.html) for details.
+- **Instructors**: [Vasiliki Kalavri](https://cs-people.bu.edu/vkalavri/) and [Anna Arpaci-Dusseau](https://www.bu.edu/cs/profiles/anna-arpaci-dusseau/)
+- **Teaching Fellows**: Matias Ou, [Sam Buxbaum](https://sambux.org/), [Naima Abrar Shami](https://sites.bu.edu/casp/people/naima-abrar-shami/)
+- **Lectures**: Mon/Wed 2:30pm-3:45pm, [SCI 109](https://www.bu.edu/classrooms/classroom/sci-109/)
+- **Discussions**: Wed 9:05am - 2:15pm. See [Discussions](./discussions.html) for details.
 
 ### Courseware
 - [Piazza](https://piazza.com/bu/fall2025/cascs351/home)
 - [Github classroom](https://classroom.github.com/classrooms/228307190-cs-351-fall-25)
-- [Gradescope]()
+- [Gradescope](https://www.gradescope.com/courses/1111176)
 
 ### Office hours
-- TBA on Piazza
+- **Monday 4:30pm - 6pm**: Instructor OH
+- **Tuesday 11:30am - 1pm**: TF OH (room TBA)
+- **Wednesday 4:30pm-6pm**: Instructor OH 
+- **Thursday 2pm-4pm**: TF OH (room TBA)
+- **Friday 1-3pm and 4-5:30pm**: TF OH (room TBA)
 
 ## Overview
 CS 351 covers fundamental concepts of distributed computing (logical clocks, causal order, snapshots, consensus, atomic commit), communication and synchronization primitives, concurrency control, task and data parallelism, data consistency, replication, and fault tolerance.
