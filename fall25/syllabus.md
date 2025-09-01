@@ -64,7 +64,7 @@ Students must also have good programming skills (C/Java/Python) and basic knowle
 
 ### 2.2 Lectures
 Lectures will be held during the assigned time slots. 
-[The detailed lecture schedule](../lectures.html) provides the topic and assigned readings for each lecture. 
+[The detailed lecture schedule](./lectures.html) provides the topic and assigned readings for each lecture. 
 **You are expected to complete the readings before the day of the lecture** and actively participate in class discussions. 
 Lecture slides will be made available on Piazza prior to the lectures or shortly after.
 
@@ -75,7 +75,7 @@ and we highly recommend using it to supplement your learning:
 
 - [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/) 4th Edition (by Maarten van Steen, Andrew S. Tanenbaum). You can request a free pdf version of the book in the provided link.
 
-Lectures may have pointers to readings, which you should complete prior to the lecture. In the [lecture schedule](../lectures.html), 
+Lectures may have pointers to readings, which you should complete prior to the lecture. In the [lecture schedule](./lectures.html), 
 **MSAT** refers to the textbook above.
 
 If you are looking for additional resources, the following are also excellent books:
