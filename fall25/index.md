@@ -1,7 +1,7 @@
 
 Welcome to **CS 351: Distributed Systems** - Fall 2025.
 
-## [Lectures](./lectures.html) \| [Discussions](./discussions.html) \| [Readings](./readings.html) \| [Syllabus](./syllabus.pdf)
+## [Lectures](./lectures.html) \| [Discussions](./discussions.html) \| [Readings](./readings.html) \| [Syllabus](./syllabus.html)
 
 ## Course information
 - **Instructors**: [Vasiliki Kalavri](https://cs-people.bu.edu/vkalavri/) and [Anna Arpaci-Dusseau](https://www.bu.edu/cs/profiles/anna-arpaci-dusseau/)
