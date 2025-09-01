@@ -22,4 +22,5 @@ Please contact us on Piazza if any of the links below is broken.
 - [Impossibility of distributed consensus with one faulty process](https://dl.acm.org/doi/10.1145/3149.214121)
 - [Paxos Made Simple](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/paxos-simple-Copy.pdf)
 - [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/214451.214456)
 - [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
