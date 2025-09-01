@@ -184,8 +184,8 @@ Using such material may result in a lower grade. However, if such material is us
 The use of AI tools, such as chatGPT or TerrierGPT, to generate written text or code for your assignments in this course is forbidden. 
 **Uploading any course content (assignments, papers, slides) to a Generative AI tool will be treated as a case of possible academic misconduct**. 
 However, you are allowed to use AI tools for enhancing your understanding of core concepts, brainstorming, and identifying external knowledge sources. 
-Beware that using AI-generated content in your assignments and projects could negatively affect your grade, as it may contain subtle errors, omissions, bugs, and misinterpretations.  
-Any use of AI software must be explicitly disclosed in your submissions, including the prompts you used.
+
+Beware that using AI-generated content in your assignments and projects could negatively affect your grade, as it may contain subtle errors, omissions, bugs, and misinterpretations. Any use of AI software must be explicitly disclosed in your submissions, including the prompts you used.
 
 ## 5. Accommodations 
 If you are a student with a disability or believe you might have a disability that requires accommodations, please contact the Office for Disability Services (ODS) at (617) 353-3658 or access@bu.edu to coordinate any reasonable accommodation requests. ODS is located at 25 Buick Street on the 3rd floor.
