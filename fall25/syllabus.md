@@ -103,7 +103,7 @@ All programming assignments will be in [Golang](https://cacm.acm.org/research/th
 and we recommend using [VSCode](https://code.visualstudio.com/) for development. 
 
 _No prior knowledge of Go is required to succeed in the course_; the lab sections will gradually introduce you to the language.
-For code management, we will be using Git. You are expected to regularly push your code to the your Github repository. 
+For code management, we will be using Git. You are expected to regularly push your code to your Github repository. 
 We will provide instructions on how to set up your programming environment on Piazza. Make sure your code is well-documented and always use meaningful commit messages. 
 We will be using your Git commit history to track your progress and give you feedback.
 
