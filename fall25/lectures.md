@@ -10,7 +10,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 | ----- | ----------- |----------- | ----------- |
 |  9/3  | L0:  Course introduction  | MSAT Ch. 1 |  VK  |
 |  9/8  | L1:  Computation and synchronization primitives  | MSAT Ch. 3.1 |  AAD  |
-|  9/10  | L2:  Communication Primitives (RPCS)  | MSAT 4.1, 4.2 |  AAD  |
+|  9/10  | L2:  Communication Primitives (RPCs)  | MSAT 4.1, 4.2 |  AAD  |
 |  9/15  | L3:  Concurrency and parallelism; Common Go Bugs  |  |  AAD  |
 |  9/17  | L4:  Sharding and consistent hashing; Into to MapReduce  | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |  AAD  |
 |  9/22  | L5:  MapReduce | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |  AAD  |
