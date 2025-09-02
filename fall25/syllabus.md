@@ -146,12 +146,12 @@ We will release five programming assignments during the semester:
 
 | Assignment | Release Date | Due Date | Late Due Date | Duration | 
 |----------|----------|----------|----------|----------|
-| A0: Go Primer        |  9/3    |  9/12  | | |
-| A1: Weather Service  |         |        | | |
-| A2: Futures          |         |        | | |
-| A3: Raft A           |         |        | | |
-| A4: Raft B           |         |        | | |
-| A5: 3PC              |         |        | | |
+| A0: Go Primer        |  9/3    |  9/12  | 9/19 |  8 days  |
+| A1: Weather Service  |  9/15   |  9/26  | 10/3 |  12 days |
+| A2: Futures          |  9/29   |  10/10 | 10/17| 12 days  |
+| A3: Raft A           |  10/20  |  10/31 | 11/7 | 12 days |
+| A4: Raft B           |  10/20  |  11/21 | 11/28 | 1 month |
+| A5: 3PC              |  11/24  |  12/10 | - | 10 days |
 
 
 **All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
