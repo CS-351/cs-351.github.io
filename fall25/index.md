@@ -11,7 +11,7 @@ Welcome to **CS 351: Distributed Systems** - Fall 2025.
 
 ### Courseware
 - [Piazza](https://piazza.com/bu/fall2025/cascs351/home)
-- [Github classroom](https://classroom.github.com/classrooms/228307190-cs-351-fall-25)
+- Github classroom (assignment links will be shared on Piazza)
 - [Gradescope](https://www.gradescope.com/courses/1111176)
 
 ### Office hours
