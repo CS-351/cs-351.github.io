@@ -59,7 +59,7 @@ Students must also have good programming skills (C/Java/Python) and basic knowle
 ### 2.1 Courseware
 - We will use [the course website](https://cs-351.github.io/fall25/index.html ) to maintain an up-to-date class schedule.
 - We will use [Piazza](https://piazza.com/bu/fall2025/cascs351 ) for announcements, questions, discussions, and all other communication.
-- We will use [Github Classroom](https://classroom.github.com/classrooms/228307190-cs-351-fall-25) for the discussions and assignments.
+- We will use [Github Classroom](https://classroom.github.com/) for the discussions and assignments.
 - We will use [Gradescope](https://www.gradescope.com/courses/1111176) for assignment submissions and in-class quizzes.
 
 ### 2.2 Lectures
