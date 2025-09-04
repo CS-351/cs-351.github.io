@@ -18,8 +18,9 @@ Welcome to **CS 351: Distributed Systems** - Fall 2025.
 - **Monday 4:30pm - 6pm**: Instructor OH
 - **Tuesday 11:30am - 1pm**: TF OH (room TBA)
 - **Wednesday 4:30pm-6pm**: Instructor OH 
-- **Thursday 2pm-4pm**: TF OH (room TBA)
-- **Friday 1-3pm and 4-5:30pm**: TF OH (room TBA)
+- **Thursday 2pm-4pm**: TF OH (CDS 1001)
+- **Friday 1-3pm**: TF OH (CDS 1001)
+- **Friday4-5:30pm**: TF OH (CDS 364)
 
 ## Overview
 CS 351 covers fundamental concepts of distributed computing (logical clocks, causal order, snapshots, consensus, atomic commit), communication and synchronization primitives, concurrency control, task and data parallelism, data consistency, replication, and fault tolerance.
