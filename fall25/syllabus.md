@@ -9,7 +9,7 @@
 **Discussions**: Wed 9:05am - 2:15pm, 7 sections; multiple locations; check MyBU Student
 
 **Instructor Office Hours**: TBD  
-**TF Office Hours**: Tuesday 11:30am - 1pm, Thursday 2pm-4pm, Friday 1-3pm and 4-5:30pm (rooms TBD)
+**TF Office Hours**: Tuesday 11:30am - 1pm, Thursday 2pm-4pm (CDS 1001), Friday 1-3pm (CDS 1001) and 4-5:30pm (CDS 364)
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
 
