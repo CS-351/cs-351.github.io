@@ -16,7 +16,7 @@ Welcome to **CS 351: Distributed Systems** - Fall 2025.
 
 ### Office hours
 - **Monday 4:30pm - 6pm**: Instructor OH
-- **Tuesday 11:30am - 1pm**: TF OH (room TBA)
+- **Tuesday 11:00am - 12:30pm**: TF OH (CDS 801)
 - **Wednesday 4:30pm-6pm**: Instructor OH 
 - **Thursday 2pm-4pm**: TF OH (CDS 1001)
 - **Friday 1-3pm**: TF OH (CDS 1001)
