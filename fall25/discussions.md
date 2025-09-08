@@ -9,8 +9,8 @@ There are 7 discussion sections, all taking place on Wednesdays, before lecture:
 | Section | Time | Location |
 | --------|------|--------- |
 | B1  | 9:05AM - 9:55AM | 565 Commonwealth Ave KCB 103 |
-| B2  | 10:10AM - 11:00AM | 565 Commonwealth Ave KCB 102 |
-| B3  | 10:10AM - 11:00AM | 2 Silber Way WED 140 |
+| B2-B3  | 10:10AM - 11:00AM | 565 Commonwealth Ave KCB 102 |
+| ~~B3~~| ~~10:10AM - 11:00AM~~ | ~~2 Silber Way WED 140~~ |
 | B4  | 11:15AM - 12:05PM | 565 Commonwealth Ave KCB 103 |
 | B5  | 12:20PM - 1:10PM  | 565 Commonwealth Ave KCB 104 |
 | B6  | 12:20PM - 1:10PM | 111 Cummington St MCS B37 |
