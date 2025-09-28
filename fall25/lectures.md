@@ -16,7 +16,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 |  9/22  | L5:  MapReduce | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |  AAD  |
 |  9/24  | **Quiz 1: Lectures 0-5**  |  |  AAD  |
 |  9/29  | L6:  Time in distributed systems  | MSAT 5.1, 5.2 |  VK  |
-|  10/1  | L7:  Failure detection, failure models, recovery  | MSAT 8.1 |  VK  |
+|  10/1  | L7:  Failure detection, failure models, recovery  | MSAT 8.1, 8.2.8, 8.3 |  VK  |
 |  10/6  | L8:  Distributed snapshots | MSAT 8.6, [Distributed snapshots](https://dl.acm.org/doi/pdf/10.1145/214451.214456) |  VK  |
 |  10/8  | L9:  Replication | MSAT 7.1 |  AAD  |
 |  10/14 |  **Review** |  |  -  |
