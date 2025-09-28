@@ -15,9 +15,9 @@ Welcome to **CS 351: Distributed Systems** - Fall 2025.
 - [Gradescope](https://www.gradescope.com/courses/1111176)
 
 ### Office hours
-- **Monday 4:00pm - 5:30pm**: Instructor OH (Anna CDS 708)
+- **Monday 4:00pm - 5:30pm**: Instructor OH (Anna CDS 708, Vasia CDS 713)
 - **Tuesday 11:00am - 12:30pm**: TF OH (CDS 801)
-- **Wednesday 4:00pm - 5:30pm**: Instructor OH (Anna CDS 708)
+- **Wednesday 4:00pm - 5:30pm**: Instructor OH (Anna CDS 708, Vasia CDS 713)
 - **Thursday 2pm-4pm**: TF OH (CDS 1001)
 - **Friday 1-3pm**: TF OH (CDS 1001)
 - **Friday4-5:30pm**: TF OH (CDS 364)
