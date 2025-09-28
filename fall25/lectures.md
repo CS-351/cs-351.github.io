@@ -26,8 +26,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 |  10/27  | L12:  Distributed Consensus III | [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |  AAD  |
 |  10/29  | **Quiz 2: Lectures 6-12**  |  |  AAD  |
 |  11/3  | L13:  Consistency in Distributed Systems; Intro to Consistency Models  | MSAT 7.2, 7.3, 7.5 |  VK  |
-|  11/5  | L14:  Distributed Transactions, Atomicity, Two-Phase Commit  | MSAT 8.5 |  VK  |
-|  11/10  | L15:  Distributed Transactions and Serializability  | MSAT 7.2 |  VK  |
+|  11/5  | L14:  Distributed Transactions and Serializability  | MSAT 7.2 |  VK  |
+|  11/10  | L15:  Distributed Transactions, Atomicity, Two-Phase Commit  | MSAT 8.5 |  VK  |
 |  11/12  | L16:  The Google File System  | [The Google file system](https://dl.acm.org/doi/10.1145/945445.945450) |  VK  |
 |  11/17  | L17:  Dynamo: Amazon's Highly Available Key-Value Store  | [Dynamo](https://dl.acm.org/doi/10.1145/1323293.1294281) |  VK  |
 |  11/19  | L18:  Spanner: Google’s Globally Distributed Database  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |  VK  |
