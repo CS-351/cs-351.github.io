@@ -24,7 +24,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 |  10/20  | L10:  Distributed Consensus I | [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |  AAD  |
 |  10/22  | L11:  Distributed Consensus II | [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |  AAD  |
 |  10/27  | L12:  Distributed Consensus III | [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |  AAD  |
-|  10/29  | **Quiz 2: Lectures 6-12**  |  |  AAD  |
+|  10/29  | **Quiz 2: Lectures 10-12**  |  |  AAD  |
 |  11/3  | L13:  Consistency in Distributed Systems; Intro to Consistency Models  | MSAT 7.2, 7.3, 7.5 |  VK  |
 |  11/5  | L14:  Distributed Transactions and Serializability  | MSAT 7.2 |  VK  |
 |  11/10  | L15:  Distributed Transactions, Atomicity, Two-Phase Commit  | MSAT 8.5 |  VK  |
