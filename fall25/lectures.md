@@ -32,7 +32,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 |  11/17  | L17:  Distributed Transactions, Atomicity, Two-Phase Commit  | MSAT 8.5 |  VK  |
 |  11/19  | L18:  Spanner: Google’s Globally Distributed Database  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |  VK  |
 |  11/24  | L19:  Spanner Part 2 - r/o transactions via snapshot isolation, safe time, commit wait  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |  VK  |
-|  12/1  | **Quiz 3: Lectures 13-19**  |  |  VK  |
-|  12/3  | L20:  TBD  |  |  VK  |
-|  12/8  | L21:  Research topics in Distributed Systems  |  |  VK  |
+|  12/1  |  Quiz preparation / Hacking day |  |  VK  |
+|  12/3  | **Quiz 3: Lectures 13-19**   |  |  VK  |
+|  12/8  | L20:  Advanced topics in Distributed Systems  |  |  VK  |
 |  12/10  |  Final Review  |  |  VK  |
