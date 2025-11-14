@@ -151,7 +151,7 @@ We will release five programming assignments during the semester:
 | A2: Futures          |  9/29   |  10/10 | 10/17| 12 days  |
 | A3: Raft A           |  10/20  |  10/31 | 11/7 | 12 days |
 | A4: Raft B           |  10/20  |  11/21 | 11/28 | 1 month |
-| A5: 3PC              |  11/24  |  12/10 | - | 10 days |
+| A5: 3PC              |  11/24  |  12/10 | - | 16 days |
 
 
 **All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
