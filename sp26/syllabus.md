@@ -4,12 +4,14 @@
 
 **Instructors**: Anna Arpaci-Dusseau  
 **Teaching Fellows**: Matias Ou, Naima Abrar Shami
+- **Teaching Assistants**: Letitia Caspersen
+- **Course Assistants**: Kiefer Ebanks, Kavya Subramanian
 
 **Lectures**: Mon/Wed 2:30pm-3:45pm, 4:00-5:15
-**Discussions**: Wed 9:05am - 2:15pm, 7 sections; multiple locations; check MyBU Student
+**Discussions**: Wed 9:05am - 2:15pm, 5 sections; multiple locations; check MyBU Student
 
 **Instructor Office Hours**: TBD  
-**TF Office Hours**: Tuesday 11:30am - 1pm, Thursday 2pm-4pm (CDS 1001), Friday 1-3pm (CDS 1001) and 4-5:30pm (CDS 364)
+**TF Office Hours**: TBD
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
 

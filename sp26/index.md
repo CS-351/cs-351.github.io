@@ -6,13 +6,16 @@ Welcome to **CS 351: Distributed Systems** - Spring 2026.
 ## Course information
 - **Instructor**: [Anna Arpaci-Dusseau](https://www.bu.edu/cs/profiles/anna-arpaci-dusseau/)
 - **Teaching Fellows**: Matias Ou, [Naima Abrar Shami](https://sites.bu.edu/casp/people/naima-abrar-shami/)
-- **Lectures**: 
-- **Discussions**: TODO See [Discussions](./discussions.html) for details.
+- **Teaching Assistants**: Letitia Caspersen
+- **Course Assistants**: Kiefer Ebanks, Kavya Subramanian
+- **Lectures**: A1 MW 2:30-3:45 (CGS 505), A2 MW 4:00-5:15 (CGS 505).
+    - You will need to attend the lecture section you are registered for.
+- **Discussions**: See [Discussions](./discussions.html) for details.
 
 ### Courseware
-- [Piazza](TODO)
+- [Piazza](https://piazza.com/class/mkeo57kbifb3vp)
 - Github classroom (assignment links will be shared on Piazza)
-- [Gradescope](TODO)
+- [Gradescope](https://www.gradescope.com/courses/1227461)
 
 ### Office hours
 - To be Added
