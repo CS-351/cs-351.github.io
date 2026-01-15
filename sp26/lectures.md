@@ -30,8 +30,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 |  4/6  | L15: Distributed Transactions and Serializability  | MSAT 7.2 |
 |  4/8  | L16:  Dynamo: Amazon's Highly Available Key-Value Store  | [Dynamo](https://dl.acm.org/doi/10.1145/1323293.1294281) |
 |  4/13  | L17:  Distributed Transactions, Atomicity, Two-Phase Commit  | MSAT 8.5 |
-|  4/15  | L18:  Spanner: Google’s Globally Distributed Database  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |
-|  4/22 | L19:  Spanner Part 2 - r/o transactions via snapshot isolation, safe time, commit wait  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |
-|  4/27  |  **Quiz 3: Lectures 13-19** |
+|  4/15  |  **Quiz 3: Lectures 13-17** |
+|  4/22  | L18:  Spanner: Google’s Globally Distributed Database  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |
+|  4/27 | L19:  Spanner Part 2 - r/o transactions via snapshot isolation, safe time, commit wait  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) |
 |  4/29  |  Final Review  |
 

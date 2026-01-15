@@ -60,7 +60,7 @@ Students must also have good programming skills (C/Java/Python) and basic knowle
 - We will use [the course website](https://cs-351.github.io/fall25/index.html ) to maintain an up-to-date class schedule.
 - We will use [Piazza](https://piazza.com/bu/fall2025/cascs351 ) for announcements, questions, discussions, and all other communication.
 - We will use [Github Classroom](https://classroom.github.com/) for the discussions and assignments.
-- We will use [Gradescope](https://www.gradescope.com/courses/1111176) for assignment submissions and in-class quizzes.
+- We will use [Gradescope](https://www.gradescope.com/courses/1111176) for assignment submissions.
 
 ### 2.2 Lectures
 Lectures will be held during the assigned time slots. 
@@ -137,7 +137,7 @@ and any papers we have covered in class.
 
 ### 3.3 In-class quizzes
 
-We will have three in-class quizzes on **2/11, 3/25, and 4/27**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
+We will have three in-class quizzes on **2/11, 3/25, and 4/15**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
 In-class quizzes will be administered on paper or on Gradescope. More information about quiz conduct and grading will be provided on Piazza.
 
