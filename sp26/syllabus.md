@@ -1,6 +1,6 @@
 ## [<< back](./index.html)
 
-# CAS CS 351 -  Course Syllabus Spring 2025
+# CAS CS 351 -  Course Syllabus Spring 2026
 
 **Instructors**: Anna Arpaci-Dusseau  
 **Teaching Fellows**: Matias Ou, Naima Abrar Shami
