@@ -1,6 +1,6 @@
 ## [<< back](./index.html)
 
-# CAS CS 351 -  Course Syllabus Fall 2025
+# CAS CS 351 -  Course Syllabus Spring 2025
 
 **Instructors**: Anna Arpaci-Dusseau  
 **Teaching Fellows**: Matias Ou, Naima Abrar Shami
@@ -8,6 +8,7 @@
 - **Course Assistants**: Kiefer Ebanks, Kavya Subramanian
 
 **Lectures**: Mon/Wed 2:30pm-3:45pm, 4:00-5:15
+
 **Discussions**: Wed 9:05am - 2:15pm, 5 sections; multiple locations; check MyBU Student
 
 **Instructor Office Hours**: TBD  
