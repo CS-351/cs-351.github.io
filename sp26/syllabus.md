@@ -150,7 +150,7 @@ We will release five programming assignments during the semester:
 
 | Assignment | Release Date | Due Date | Late Due Date | Duration | 
 |----------|----------|----------|----------|----------|
-| A0: Go Primer        |  1/21    |  1/30  | |  8 days  |
+| A0: Go Primer        |  1/22    |  1/30  | |  8 days  |
 | A1: Weather Service  |  2/2   |  2/13  |  |  12 days |
 | A2: Futures          |  2/16   |  2/27 | | 12 days  |
 | A3: Raft A           |  3/2  |  3/20 |  | 12 days |
@@ -161,6 +161,21 @@ We will release five programming assignments during the semester:
 **All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
 After each deadline, you will have 1 more week (7 days) to _submit late with a 30% penalty_. 
 Submissions will not be accepted after this extended period.
+
+### 3.5 Reading Assignments
+
+For each paper, a short set of questions will be posted on Gradescope. Completion of these reading questions will contribute to the 5% Reading assignments + Git commit history portion of you grade.
+
+A tentative schedule is available below:
+
+| Reading | Reading Question Due Date |
+|----------|----------|
+| MapReduce | 2/9 |
+| Raft | 3/18 |
+| GFS | 4/1 |
+| Dynamo | 4/8 |
+| Spanner | 4/22 |
+
 
 ## 4. Class and University Policies
 
