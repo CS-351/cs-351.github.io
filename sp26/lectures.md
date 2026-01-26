@@ -9,17 +9,17 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 | Date  | Topic | Assigned Reading |
 | ----- | ----------- |----------- |
 |  1/21  | L0:  Course introduction  | MSAT Ch. 1 |
-|  1/26  | L1:  Computation and synchronization primitives  | MSAT Ch. 3.1 |
-|  1/28  | L2:  Communication Primitives (RPCs)  | MSAT 4.1, 4.2 |
-|  2/2 | L3:  Concurrency and parallelism; Common Go Bugs  |  |
-|  2/4  | L4:  Sharding and consistent hashing; Into to MapReduce  | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |
-|  2/9  | L5:  MapReduce | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |
-|  2/11 | **Quiz 1: Lectures 0-5**  |  |
-|  2/17 | L6:  Time in distributed systems  | MSAT 5.1, 5.2 |
-|  2/18 | L7:  Failure detection, failure models, recovery  | MSAT 8.1, 8.2.8, 8.3 |
-|  2/23 | L8:  Distributed snapshots | MSAT 8.6, [Distributed snapshots](https://dl.acm.org/doi/pdf/10.1145/214451.214456) |
-|  2/25  | L9:  Replication | MSAT 7.1 |
-|  3/2 |  **Review** |  |  -  |
+|  1/26  | **Snow Day** | - |
+|  1/28  |  L1:  Computation and synchronization primitives  | MSAT Ch. 3.1 |
+|  2/2 | L2:  Communication Primitives (RPCs)  | MSAT 4.1, 4.2 |  |
+|  2/4  | L3:  Concurrency and parallelism; Common Go Bugs  |
+|  2/9  | L4:  Sharding and consistent hashing; Into to MapReduce  | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |
+|  2/11 | L5:  MapReduce | [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492) |  |
+|  2/17 | **Quiz 1: Lectures 0-5**  |
+|  2/18 | L6:  Time in distributed systems  | MSAT 5.1, 5.2 |
+|  2/23 | L7:  Failure detection, failure models, recovery  | MSAT 8.1, 8.2.8, 8.3|
+|  2/25  |  L8:  Distributed snapshots | MSAT 8.6, [Distributed snapshots](https://dl.acm.org/doi/pdf/10.1145/214451.214456) |
+|  3/2 | L9:  Replication | MSAT 7.1 |
 |  3/4 |  **MIDTERM (Lec0-9)** |  |  -  |
 |  3/16  | L10:  Distributed Consensus I | [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |
 |  3/18  | L11:  Distributed Consensus II | [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |
