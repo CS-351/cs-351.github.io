@@ -11,8 +11,15 @@
 
 **Discussions**: Wed 9:05am - 2:15pm, 5 sections; multiple locations; check MyBU Student
 
-**Instructor Office Hours**: TBD  
-**TF Office Hours**: TBD
+**Instructor Office Hours**: 
+- Mondays, 11am-12:30pm: CDS 708
+- Fridays, 9:30am-11am: CDS 708
+  
+**TF Office Hours**: 
+- Mondays, 12:30-1:30: CDS 362, 2pm-3pm: The blue lounge next to CDS 928. 
+- Tuesdays 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
+- Thursdays, 10am-3pm: The green lounge next to CDS 1007
+- Fridays, 2:30pm-5:30pm: The blue lounge next to CDS 928
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
 
@@ -140,7 +147,7 @@ and any papers we have covered in class.
 
 ### 3.3 In-class quizzes
 
-We will have three in-class quizzes on **2/11, 3/25, and 4/15**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
+We will have three in-class quizzes on ** ~~2/11~~ 2/17, 3/25, and 4/15**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
 In-class quizzes will be administered on paper or on Gradescope. More information about quiz conduct and grading will be provided on Piazza.
 
@@ -170,7 +177,7 @@ A tentative schedule is available below:
 
 | Reading | Reading Question Due Date |
 |----------|----------|
-| MapReduce | 2/9 |
+| MapReduce | ~~2/9~~ 2/11 |
 | Raft | 3/18 |
 | GFS | 4/1 |
 | Dynamo | 4/8 |
