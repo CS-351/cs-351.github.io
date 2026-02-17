@@ -18,7 +18,18 @@ Welcome to **CS 351: Distributed Systems** - Spring 2026.
 - [Gradescope](https://www.gradescope.com/courses/1227461)
 
 ### Office hours
-- To be Added
+
+Please check piazza for the most up-to-date information.
+
+*   Mondays, 12:30-1:30 and 2pm-3pm: The blue lounge next to CDS 928. 
+*   Tuesdays 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
+*   Thursdays, 10am-2pm: The green lounge next to CDS 1007
+*   Fridays, 2:30pm-5:30pm: The blue lounge next to CDS 928 
+
+**Instructor’s Office Hours:**
+
+*   Mondays, 11am-12:30pm: CDS 708
+*   Fridays, 9:30am-11am: CDS 708
 
 ## Overview
 CS 351 covers fundamental concepts of distributed computing (logical clocks, causal order, snapshots, consensus, atomic commit), communication and synchronization primitives, concurrency control, task and data parallelism, data consistency, replication, and fault tolerance.
