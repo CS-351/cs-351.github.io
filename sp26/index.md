@@ -21,10 +21,11 @@ Welcome to **CS 351: Distributed Systems** - Spring 2026.
 
 Please check piazza for the most up-to-date information.
 
-*   Mondays, 12:30-1:30 and 2pm-3pm: The blue lounge next to CDS 928. 
-*   Tuesdays 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
-*   Thursdays, 10am-2pm: The green lounge next to CDS 1007
-*   Fridays, 2:30pm-5:30pm: The blue lounge next to CDS 928 
+* Mondays, 12:30-1:30: The green lounge next to CDS 1007
+* Mondays, 2pm-3pm: The blue lounge next to CDS 928
+* Tuesdays, 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
+* Thursdays, 10am-2pm: The green lounge next to CDS 1007
+* Fridays, 2:30pm-5:30pm: The blue lounge next to CDS 928
 
 **Instructor’s Office Hours:**
 
