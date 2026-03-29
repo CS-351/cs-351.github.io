@@ -30,7 +30,7 @@ Please check piazza for the most up-to-date information.
 **Instructor’s Office Hours:**
 
 *   Mondays, 11am-12:30pm: CDS 708
-*   Fridays, 9:30am-11am: CDS 708
+*   Fridays, 10:00am-11:30am: CDS 708
 
 ## Overview
 CS 351 covers fundamental concepts of distributed computing (logical clocks, causal order, snapshots, consensus, atomic commit), communication and synchronization primitives, concurrency control, task and data parallelism, data consistency, replication, and fault tolerance.
