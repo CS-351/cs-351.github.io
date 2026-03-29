@@ -13,12 +13,13 @@
 
 **Instructor Office Hours**: 
 - Mondays, 11am-12:30pm: CDS 708
-- Fridays, 9:30am-11am: CDS 708
+- Fridays, 10:00am-11:30am: CDS 708
   
 **TF Office Hours**: 
-- Mondays, 12:30-1:30: CDS 362, 2pm-3pm: The blue lounge next to CDS 928. 
-- Tuesdays 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
-- Thursdays, 10am-3pm: The green lounge next to CDS 1007
+- Mondays, 12:30-1:30: The green lounge next to CDS 1007
+- Mondays, 2pm-3pm: The blue lounge next to CDS 928
+- Tuesdays, 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
+- Thursdays, 10am-2pm: The green lounge next to CDS 1007
 - Fridays, 2:30pm-5:30pm: The blue lounge next to CDS 928
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
