@@ -162,8 +162,8 @@ We will release five programming assignments during the semester:
 | A1: Weather Service  |  2/2   |  2/13  | 2/20 |  12 days |
 | A2: Futures          |  2/16   |  2/27 | 3/6| 12 days  |
 | A3: Raft A           |  3/2  |  ~~3/20~~ 3/27 | ~~3/27~~ 4/10 | 12 days |
-| A4: Raft B           |  3/2  |  4/3 | 4/10 | 1 month |
-| A5: 3PC or Multicast (TBD)              |  4/6 |  4/30 | - | 16 days |
+| A3: Raft B           |  3/2  |  4/3 | 4/10 | 1 month |
+| A4: 3PC or Multicast (TBD)              |  4/6 |  4/30 | - | 16 days |
 
 
 **All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
