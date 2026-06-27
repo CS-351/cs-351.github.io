@@ -133,11 +133,11 @@ Your final grade will be determined as follows:
 - Midterm exam: 20%
 - Quizzes: 20%
 - Final exam: 30%
-- Programming assignments: 15% (weights: A0: 1%,  A1: 2%, A2: 3%, A3: 5%, A4: 4%)
+- Programming assignments: 15% (weights: A0: 1%,  A1: 2%, A2: 4%, A3: 8%)
 
 ### 3.2 Midterm and Final Exams
 
-The midterm will take place during lecture time on **July 21st** and the final exam is to be announced.
+The midterm will take place during lecture time on **July 21st** and the final exam during lecture time on **August 6th**.
 
 **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
@@ -147,7 +147,7 @@ and any papers we have covered in class.
 
 ### 3.3 In-class quizzes
 
-We will have three in-class quizzes on ** 7/9, 7/28, and 8/4**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
+We will have two in-class quizzes on ** 7/9, 7/30**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
 In-class quizzes will be administered on paper or on Gradescope. More information about quiz conduct and grading will be provided on Piazza.
 
@@ -160,9 +160,9 @@ We will release five programming assignments during the semester:
 | A0: Go Primer        |  6/30   |  7/3  | 7/10 |  4 days  |
 | A1: Weather Service  |  7/3   |  7/10  | 7/17 |  7 days |
 | A2: Futures          |  7/10  |  7/17 | 7/24 | 7 days  |
-| A3: Raft A           |  7/17  |  7/24 | 8/6 | 7 days |
-| A3: Raft B           |  7/17  |  7/31 | 8/6 | 7 month |
-| A4: 3PC or Multicast (TBD)  |  7/31 |  8/6 | - | 7 days |
+| A3: Raft A           |  7/17  |  7/29 | 8/6 | 7 days |
+| A3: Raft B           |  7/17  |  8/6 | 8/6 | 7 days |
+
 
 
 **All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
@@ -181,8 +181,8 @@ A tentative schedule is available below:
 |----------|----------|
 | MapReduce | 7/7 |
 | Raft | 7/23 |
-| GFS | 4/1 |
-| Dynamo | 7/28 |
+| GFS | 7/28 |
+| Dynamo | 7/30 |
 | Spanner | 8/6 |
 
 
