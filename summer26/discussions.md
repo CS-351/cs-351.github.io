@@ -8,7 +8,7 @@ There is 1 discussion section, all taking place on Wednesdays:
 
 | Section | Time | Location |
 | --------|------|--------- |
-| B1  | 9:05AM - 9:55AM | 665 Commonwealth Ave CDS 701 |
+| B2  | 9:30 am - 12:00 pm| 2 Silber Way WED 140 |
 
 
 **You must attend the discussion section you have registered for.** 

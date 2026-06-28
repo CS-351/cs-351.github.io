@@ -5,20 +5,16 @@
 **Instructors**: Anna Arpaci-Dusseau  
 - **Teaching Assistant**: Kavya Subramanian
 
-**Lectures**: Mon/Wed 2:30pm-3:45pm, 4:00-5:15
+**Lectures**: Tu/Th 1:00 pm - 4:30 pm, 111 Cummington St MCS B33
 
-**Discussions**: Wed 9:05am - 2:15pm, 5 sections; multiple locations; check MyBU Student
+**Discussions**: Wed 9:30 am
+- 12:00 pm; 2 Silber Way WED 140
 
 **Instructor Office Hours**: 
-- Mondays, 11am-12:30pm: CDS 708
-- Fridays, 10:00am-11:30am: CDS 708
+- To Be Added
   
-**TF Office Hours**: 
-- Mondays, 12:30-1:30: The green lounge next to CDS 1007
-- Mondays, 2pm-3pm: The blue lounge next to CDS 928
-- Tuesdays, 1pm-2pm and 4:30pm-5:30pm: The blue lounge next to CDS 928.
-- Thursdays, 10am-2pm: The green lounge next to CDS 1007
-- Fridays, 2:30pm-5:30pm: The blue lounge next to CDS 928
+**TA Office Hours**: 
+- To be Added
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
 
@@ -66,10 +62,10 @@ Students must also have good programming skills (C/Java/Python) and basic knowle
 ## 2. Instructional Format and Course Materials
 
 ### 2.1 Courseware
-- We will use [the course website](https://cs-351.github.io/fall25/index.html ) to maintain an up-to-date class schedule.
-- We will use [Piazza](https://piazza.com/bu/fall2025/cascs351 ) for announcements, questions, discussions, and all other communication.
+- We will use [the course website](https://cs-351.github.io/summer26/index.html ) to maintain an up-to-date class schedule.
+- We will use [Piazza](https://piazza.com/bu/summer2026/cs351/) for announcements, questions, discussions, and all other communication.
 - We will use [Github Classroom](https://classroom.github.com/) for the discussions and assignments.
-- We will use [Gradescope](https://www.gradescope.com/courses/1111176) for assignment submissions.
+- We will use [Gradescope](https://www.gradescope.com/courses/1325713) for assignment submissions.
 
 ### 2.2 Lectures
 Lectures will be held during the assigned time slots. 
