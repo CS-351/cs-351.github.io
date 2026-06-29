@@ -6,9 +6,7 @@
 - **Teaching Assistant**: Kavya Subramanian
 
 **Lectures**: Tu/Th 1:00 pm - 4:30 pm, 111 Cummington St MCS B33
-
-**Discussions**: Wed 9:30 am
-- 12:00 pm; 2 Silber Way WED 140
+**Discussions**: Wed 9:30 am - 12:00 pm; 2 Silber Way WED 140
 
 **Instructor Office Hours**: 
 - To Be Added

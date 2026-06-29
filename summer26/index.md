@@ -10,18 +10,17 @@ Welcome to **CS 351: Distributed Systems** - Summer 2026.
 - **Discussions**: See [Discussions](./discussions.html) for details.
 
 ### Courseware
-- [Piazza]()
+- [Piazza](https://piazza.com/bu/summer2026/cs351/)
 - Github classroom (assignment links will be shared on Piazza)
-- [Gradescope]()
+- [Gradescope](https://www.gradescope.com/courses/1325713)
 
 ### Office hours
 
 Please check piazza for the most up-to-date information.
 
-
 **Instructor’s Office Hours:**
 
-
+Please check piazza for the most up-to-date information.
 
 ## Overview
 CS 351 covers fundamental concepts of distributed computing (logical clocks, causal order, snapshots, consensus, atomic commit), communication and synchronization primitives, concurrency control, task and data parallelism, data consistency, replication, and fault tolerance.
