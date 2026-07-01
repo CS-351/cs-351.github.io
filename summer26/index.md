@@ -6,7 +6,7 @@ Welcome to **CS 351: Distributed Systems** - Summer 2026.
 ## Course information
 - **Instructor**: [Anna Arpaci-Dusseau](https://www.bu.edu/cs/profiles/anna-arpaci-dusseau/)
 - **Teaching Assistant**: Kavya Subramanian
-- **Lecture**: TODO
+- **Lecture**: Tu/Th 1:00 pm - 4:30 pm, 111 Cummington St MCS B33
 - **Discussions**: See [Discussions](./discussions.html) for details.
 
 ### Courseware

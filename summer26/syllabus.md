@@ -9,10 +9,10 @@
 **Discussions**: Wed 9:30 am - 12:00 pm; 2 Silber Way WED 140
 
 **Instructor Office Hours**: 
-- To Be Added
+- Please check Piazza for the most up-to-date information
   
 **TA Office Hours**: 
-- To be Added
+- Please check Piazza for the most up-to-date information
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
 
@@ -141,7 +141,7 @@ and any papers we have covered in class.
 
 ### 3.3 In-class quizzes
 
-We will have two in-class quizzes on ** 7/9, 7/30**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
+We will have two in-class quizzes on **7/9, 7/30**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
 In-class quizzes will be administered on paper or on Gradescope. More information about quiz conduct and grading will be provided on Piazza.
 
@@ -154,16 +154,16 @@ We will release five programming assignments during the semester:
 | A0: Go Primer        |  6/30   |  7/3  | 7/10 |  4 days  |
 | A1: Weather Service  |  7/3   |  7/10  | 7/17 |  7 days |
 | A2: Futures          |  7/10  |  7/17 | 7/24 | 7 days  |
-| A3: Raft A           |  7/17  |  7/29 | 8/6 | 7 days |
-| A3: Raft B           |  7/17  |  8/6 | 8/6 | 7 days |
+| A3: Raft A           |  7/17  |  7/29 | 8/6 | 12 days |
+| A3: Raft B           |  7/17  |  8/6 | 8/6 | 20 days |
 
 
 
-**All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
+**All assignment deadlines will be at 11.59pm (midnight)**. 
 After each deadline, you will have 1 more week (7 days) to _submit late with a 30% penalty_. 
 Submissions will not be accepted after this extended period.
 
-Note that we will not accept late submissions for A5 due to the last day of classes being 4/30.
+Note that we will not accept late submissions for A5 due to the last day of classes being 8/6.
 
 ### 3.5 Reading Assignments
 
