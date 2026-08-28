@@ -4,3 +4,5 @@ Website for BU CAS CS 351
 - [Fall25](/fall25/index.md)
 - [Spring26](/sp26/index.md)
 - [Summer26](/summer26/index.md)
+- [Fall26](/fa26/index.md)
+
