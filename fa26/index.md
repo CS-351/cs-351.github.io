@@ -6,7 +6,7 @@ Welcome to **CS 351: Distributed Systems** - Spring 2026.
 ## Course information
 - **Instructor**: [Anna Arpaci-Dusseau](https://www.bu.edu/cs/profiles/anna-arpaci-dusseau/)
 - **Teaching Fellows**: 
-- **Teaching Assistants**: Kiefer Ebanks, Kavya Subramanian, 
+- **Teaching Assistants**: 
 - **Course Assistants**: 
 - **Lectures**: A1 MW 2:30-3:45 (CAS B20), A2 MW 4:00-5:15 (CAS B20).
     - You will need to attend the lecture section you are registered for.

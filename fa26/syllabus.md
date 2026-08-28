@@ -3,9 +3,9 @@
 # CAS CS 351 -  Course Syllabus Spring 2026
 
 **Instructors**: Anna Arpaci-Dusseau  
-**Teaching Fellows**: Matias Ou, Naima Abrar Shami
-- **Teaching Assistants**: Letitia Caspersen
-- **Course Assistants**: Kiefer Ebanks, Kavya Subramanian
+**Teaching Fellows**: 
+- **Teaching Assistants**: 
+- **Course Assistants**: 
 
 **Lectures**: Mon/Wed 2:30pm-3:45pm, 4:00-5:15
 
