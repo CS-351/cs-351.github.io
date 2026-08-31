@@ -7,14 +7,14 @@
 - **Teaching Assistants**: 
 - **Course Assistants**: 
 
-**Lectures**: Mon/Wed 2:30pm-3:45pm, 4:00-5:15
-
-**Discussions**: Wed 9:05am - 2:15pm, 4 sections; multiple locations; check MyBU Student
+**Lectures**: A1 MW 2:30-3:45 (CAS B20), A2 MW 4:00-5:15 (CAS B20)
+**Discussions**: Wed 10:10am - 2:15pm, 4 sections; multiple locations; check MyBU Student
 
 **Instructor Office Hours**: 
-
+- Please check Piazza for most up-to-date office hours
   
-**TF Office Hours**: 
+**TA Office Hours**: 
+- Please check Piazza for most up-to-date office hours
 
 **IMPORTANT**: Refrain from using email to reach the course staff. **_Use Piazza for all class communication_**, including to privately contact the instructors or TFs.
 
@@ -91,6 +91,7 @@ If you are looking for additional resources, the following are also excellent bo
 To further understand the practical challenges and impact of distributed systems, we will also assign additional readings and discuss the following distributed systems from industry:
 
 - [Raft](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)
+- [Ray](https://www.usenix.org/conference/nsdi21/presentation/cheng)
 - [MapReduce](https://dl.acm.org/doi/10.1145/1327452.1327492)
 - [The Google file system](https://dl.acm.org/doi/10.1145/945445.945450)
 - [Dynamo](https://dl.acm.org/doi/10.1145/1323293.1294281)
@@ -132,7 +133,7 @@ Your final grade will be determined as follows:
 
 ### 3.2 Midterm and Final Exams
 
-The midterm will take place during lecture time on **TODO: Add Date** and the final exam is to be announced.
+The midterm will take place during lecture time on **10/21** and the final exam is to be announced.
 
 **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
@@ -142,7 +143,7 @@ and any papers we have covered in class.
 
 ### 3.3 In-class quizzes
 
-We will have three in-class quizzes on **TODO: Add Dates**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
+We will have three in-class quizzes on **9/28, 11/4, 12/2**. **These dates are not flexible**. Please plan your work and travel plans accordingly.
 
 In-class quizzes will be administered on paper or on Gradescope. More information about quiz conduct and grading will be provided on Piazza.
 
@@ -150,21 +151,21 @@ In-class quizzes will be administered on paper or on Gradescope. More informatio
 
 We will release five programming assignments during the semester:
 
-| Assignment | Release Date | Due Date | Late Due Date | Duration | 
-|----------|----------|----------|----------|----------|
-| A0: Go Primer        |  1/22    |  1/30  | 2/6 |  8 days  |
-| A1: Weather Service  |  2/2   |  2/13  | 2/20 |  12 days |
-| A2: Futures          |  2/16   |  2/27 | 3/6| 12 days  |
-| A3: Raft A           |  3/2  |  ~~3/20~~ 3/27 | ~~3/27~~ 4/10 | 12 days |
-| A3: Raft B           |  3/2  |  4/3 | 4/10 | 1 month |
-| A4: 3PC, Multicast or Ray (TBD)              |  4/6 |  4/30 | - | 16 days |
+|Assignment  |Release                                                                              |Due Data                       |Late Deadline|
+|------------|-------------------------------------------------------------------------------------|-------------------------------|-------------|
+|A0-Primer   |Wed 9/2                                                                              |Fri 9/11                       |Fri 9/18     |
+|A1-WeatherService|Mon 9/14                                                                             |Fri 9/25                       |Fri 10/2     |
+|A2-Futures  |Mon 9/28                                                                             |Fri 10/9                       |Fri 10/16    |
+|A3-Raft Part A|Mon 10/19                                                                            |Fri 10/30                      |Fri 11/27    |
+|A3-Raft Part B|Mon 10/19                                                                            |Fri 11/20                      |Fri 11/27    |
+|A4-Ray      |Mon 11/23                                                                            |Thu 12/10                      |-            |
 
 
 **All assignment deadlines will be on Friday at 11.59pm (midnight)**. 
 After each deadline, you will have 1 more week (7 days) to _submit late with a 30% penalty_. 
 Submissions will not be accepted after this extended period.
 
-Note that we will not accept late submissions for A5 due to the last day of classes being 4/30.
+Note that we will not accept late submissions for A5 due to the last day of classes.
 
 ### 3.5 Reading Assignments
 
@@ -174,11 +175,12 @@ A tentative schedule is available below:
 
 | Reading | Reading Question Due Date |
 |----------|----------|
-| MapReduce |  |
-| Raft | |
-| GFS |  |
-| Dynamo |  |
-| Spanner |  |
+| MapReduce | 9/23 |
+| Raft | 10/28|
+| GFS | 11/11 |
+| Dynamo |  11/18|
+| Ray | 11/23 |
+| Spanner | 11/30 |
 
 
 ## 4. Class and University Policies

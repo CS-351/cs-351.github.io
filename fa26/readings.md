@@ -16,6 +16,8 @@ Please contact us on Piazza if any of the links below is broken.
 - [The Google file system](https://dl.acm.org/doi/10.1145/945445.945450)
 - [Dynamo: amazon's highly available key-value store](https://dl.acm.org/doi/10.1145/1323293.1294281)
 - [Spanner: Google's Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
+- [Ownership: A Distributed Futures System for Fine-Grained Tasks](https://www.usenix.org/conference/nsdi21/presentation/cheng)
+
 
 ## Other recommended papers and articles
 - [Fallacies of Distributed Computing](https://www.se.rit.edu/~se442/doc/fallacies.pdf)
