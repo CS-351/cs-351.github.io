@@ -32,8 +32,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 |Wed,11/18|L16: Dynamo: Amazon’s Highly Available Key-Value Store                               |[Dynamo](https://dl.acm.org/doi/10.1145/1323293.1294281)                        |
 |Mon,11/23|L17: [Ray](https://www.usenix.org/conference/nsdi21/presentation/cheng)                                                                             |Ray                            |
 |            |Thanksgiving Break                                                                   |                               |
-|Mon,11/30|**Quiz 3: Lectures** 13-17                                                               |                               |
-|Wed,12/2 |L18: Spanner: Google’s Globally Distributed Database                                 |[Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)                        |
+|Mon,11/30|L18: Spanner: Google’s Globally Distributed Database                                 |[Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)                        |
+|Wed,12/2 | **Quiz 3 L13-L17**||
 |Mon,12/7 |L19: Spanner Part 2 - r/o transactions via snapshot isolation, safe time, commit wait|[Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)                        |
 |Wed,12/9 |Final Review                                                                         |                               |
 
