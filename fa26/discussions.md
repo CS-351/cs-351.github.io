@@ -1,6 +1,9 @@
 ## [<< back](./index.html)
 
 Discussions are a core component of the course and **discussion attendance is mandatory**. 
+
+**If you attend at least 9 out of the 11 discussions during the semester, you will receive 1% bonus credit to your final grade.**
+
 The Teaching Fellows will lead the discussion sessions, present material on programming tools, and answer questions (or provide clarifications) 
 regarding the assignments. Further information and discussion material will be posted on [Piazza](https://piazza.com/class/mtd0g6zxb02261/).
 

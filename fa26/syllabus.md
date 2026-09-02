@@ -99,6 +99,9 @@ To further understand the practical challenges and impact of distributed systems
 
 ### 2.3 Discussions
 [Discussions](./discussions.html) are a core component of the course and **discussion attendance is mandatory**. 
+
+We will take attendance in discussion. As an incentive, if you attend at least 9 out of the 11 total discussions, you will **receive 1% bonus credit** to your final grade.
+
 The Teaching Fellows will lead the discussion sessions and present material on programming tools and answer questions (or provide clarifications) 
 regarding the assignments. The Teaching Fellows will post information to Piazza as necessary. 
 
@@ -130,6 +133,7 @@ Your final grade will be determined as follows:
 - Quizzes: 20%
 - Final exam: 30%
 - Programming assignments: 25% (weights: A0: 2%,  A1: 3%, A2: 5%, A3: 8%, A4: 7%)
+- Discussion Bonus: +1% (see 2.3 Discussions)
 
 ### 3.2 Midterm and Final Exams
 
